@@ -3,11 +3,20 @@ import React from 'react'
 
 function VideoPart() {
   return (
-    <div>
-      <video autoPlay loop muted playsInline className="absolute z[-1]">
+  
+    <div className='flex h-[100vh] overflow-auto'>
+      <video autoPlay loop muted playsInline className="flex relative z[-1] w-screen object-cover overflow-auto ">
         <source src="/volvo-video.mp4" />
       </video>
-    </div>
+
+      <div className='flex absolute w-full h-full
+       top-0 flex-col justify-center items-center text-white '>
+        <h1 className=''>A New era for safety</h1>
+        <h1>Does how you feel affect</h1>
+        <h1>How you Drive?</h1>
+      </div>
+
+    </div>  
   );
 }
 
