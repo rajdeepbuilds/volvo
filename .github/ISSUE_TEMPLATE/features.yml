@@ -1,6 +1,6 @@
  name: 💡 Feature Request
-  description: Have a new idea/feature for Milan? Please suggest!
-  title: "Feature: Write a small description here"
+  description: Have a new idea?
+  title: "Feature: Write a small description here
   labels:
     [
       "status: todo ⏳",
