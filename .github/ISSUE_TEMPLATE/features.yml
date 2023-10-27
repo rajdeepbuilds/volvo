@@ -1,5 +1,5 @@
- name: 💡 Feature Request
- description: Have a new idea/feature for Milan? Please suggest!
+  name: 💡 Feature Request
+  description: Have a new idea/feature for Milan? Please suggest!
   title: "Feature: Write a small description here"
   labels:
     [
@@ -59,3 +59,9 @@
 
           - label: "I am willing to work on this issue (blank for no)"
             required: false
+
+    - type: markdown
+      attributes:
+        value: |
+          In case of emergencies contact me on [Twitter](https://twitter.com/tamalCodes)
+          Feel free to check out other cool repositories [here](https://github.com/tamalCodes)
