@@ -1,6 +1,6 @@
  name: 💡 Feature Request
   description: Have a new idea?
-  title: "Feature: Write a small description here
+  title: "Feature: Write a small description here"
   labels:
   body:
     - type: textarea
