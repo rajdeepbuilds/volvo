@@ -1,7 +1,12 @@
   name: 💡 Feature Request
   description: Have a new idea/feature for Hack4Bengal? Please suggest!
   title: "Feature: Write a small description here"
-  labels:[]
+  labels:
+    [
+      "status: todo ⏳",
+      "💡 feature",
+      "hacktoberfest"
+    ]
   body:
     - type: textarea
       id: description
