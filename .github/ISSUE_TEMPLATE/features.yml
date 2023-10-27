@@ -1,7 +1,12 @@
  name: 💡 Feature Request
-  description: "Have a new idea?"
+  description: Have a new idea/feature for Milan? Please suggest!
   title: "Feature: Write a small description here"
   labels:
+    [
+      "status: todo ⏳",
+      "💡 feature",
+      "hacktoberfest"
+    ]
   body:
     - type: textarea
       id: description
@@ -54,4 +59,3 @@
 
           - label: "I am willing to work on this issue (blank for no)"
             required: false
-         
