@@ -2,11 +2,6 @@
   description: Have a new idea?
   title: "Feature: Write a small description here
   labels:
-    [
-      "status: todo ⏳",
-      "💡 feature",
-      "hacktoberfest"
-    ]
   body:
     - type: textarea
       id: description
