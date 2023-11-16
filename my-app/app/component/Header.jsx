@@ -8,7 +8,7 @@ function Header() {
     <>
       <div className="flex justify-between px-10 items-center">
         <div>
-          <img src="/logo-volvo.png" width={130} height={80} alt="image" />
+          <img src="/logo-volvo.png" width={130} height={800} alt="image" />
         </div>
 
         <div className="flex gap-4 font-semibold">
