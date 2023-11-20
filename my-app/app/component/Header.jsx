@@ -17,7 +17,7 @@ function Header() {
         </div>
       </div>
 
-      <div className="flex bg-black justify-center items-center h-10 gap-1">
+      <div className="flex bg-black justify-center items-center h-10 gap-10">
         <a className="font-semibold text-white ">Learn More</a>
         <TfiAngleRight className='text-white text-[15px]'/>
       </div>
