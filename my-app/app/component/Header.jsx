@@ -5,7 +5,7 @@ import { TfiAngleRight } from "react-icons/tfi";
 
 function Header() {
   return (
-    <>
+    <div>
       <div className="flex justify-between px-10 items-center">
         <div>
           <img src="/logo-volvo.png" width={130} height={80} alt="image" />
